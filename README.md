@@ -35,7 +35,7 @@ I live for tech and love leveling up my skills. My quest? To become a full stack
 <div style="display: inline_block"><br>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,php,laravel,js,nodejs,react,ts,vue,mysql,figma,postgres,docker,amazonwebservices,net" />
+    <img src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,python,docker,figma,git,mysql,postgres" />
   </a>
 </p>
 </div>
